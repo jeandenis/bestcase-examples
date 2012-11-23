@@ -1,0 +1,15 @@
+div.red {
+    background-color: #c55;
+}
+
+div.green {
+    background-color: #5c5;
+}
+
+div.blue {
+    background-color: #55c;
+}
+
+.highlight {
+    color: #c55;
+}
